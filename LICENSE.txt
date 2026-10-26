@@ -1,0 +1,41 @@
+End-User License Agreement (EULA), Proprietary Rights & Disclaimer of Warranty
+
+PLEASE READ THIS AGREEMENT CAREFULLY BEFORE USING THE SOFTWARE.
+This Agreement is a legal document between you (the End User) and the product creator and rightsholder, **Serhii Makarenko** ("Licensor" / "Rightsholder").
+
+**Rightsholder & Product Creator:** Serhii Makarenko.
+All exclusive proprietary rights and copyrights in and to the "Auto Video Montage Pro" software product as a unified work — including its product architecture, applied editing automation logic, take-selection criteria, specialized AI prompts, UI design, and compiled software code — belong solely to the Rightsholder, Serhii Makarenko.
+
+### 1. Operating Mode: 365 Days Full Access (Extended Access) & Hardware Lock
+- **1-Year Unrestricted Access:** This version of the software provides unrestricted full access to all features for **365 days** from the date of first launch on your computer.
+- **Transition to Basic Mode After 1 Year:** After the 365-day period expires, the software automatically transitions into a basic demo mode with processing limited to the first 5 minutes of video material.
+- **Renewal & Personal Hardware-Locked License:** To continue full unrestricted access after the 365-day period, please contact the Rightsholder via email: **cjsmars@gmail.com**. Individual PRO activation keys are personal, non-transferable, and cryptographically tied (Hardware Locked) to your Mac's unique hardware identifier (`IOPlatformUUID`).
+
+### 2. Disclaimer of Warranty ("AS IS")
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE RIGHTSHOLDER OR LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, INCLUDING DIRECT, INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES (INCLUDING LOSS OF DATA, DAMAGE TO PROJECT FILES, LOSS OF PROFITS, OR BUSINESS INTERRUPTION) ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. ALL RISKS ARISING OUT OF USE OR PERFORMANCE OF THE SOFTWARE REMAIN ENTIRELY WITH THE END USER.
+
+### 3. Strict Prohibitions, Restrictions on Use & Anti-Copy Protection
+You strictly agree that you WILL NOT:
+- Decompile, disassemble, reverse engineer, or attempt to derive the source code, internal logic, or AI prompts.
+- Modify, adapt, or create derivative commercial products or services based on the Software's architecture.
+- Circumvent, tamper with, or bypass any copy protection, time counter, or Self-Integrity Check mechanisms.
+- Sell, rent, lease, sublicense, or distribute the activated Software or license keys to any third party without express written consent from the Rightsholder.
+
+### 4. Third-Party Trademarks Disclaimer
+Final Cut Pro, Apple, and macOS are registered trademarks of Apple Inc.
+DaVinci Resolve is a registered trademark of Blackmagic Design Pty Ltd.
+Adobe Premiere Pro is a registered trademark of Adobe Inc.
+Avid Media Composer is a registered trademark of Avid Technology, Inc.
+Auto Video Montage Pro is an independent video editing automation product created and owned by Serhii Makarenko and is not affiliated with, endorsed by, or sponsored by these companies. All trademark references are used strictly for compatibility identification (FCPXML, Premiere XML, EDL).
+
+### 5. Third-Party Open Source Notices
+The software interfaces with open-source libraries and frameworks:
+- Faster-Whisper / OpenAI Whisper (MIT License, © Guillaume Klein, OpenAI)
+- CTranslate2 (MIT License, © OpenNMT Team)
+- Hugging Face Transformers & Sentence-Transformers (Apache 2.0 License)
+- FFmpeg (LGPL v2.1+ / GPL, © FFmpeg developers) — utilized as an external CLI utility
+- Accelerate DSP & CryptoKit (© Apple Inc.)
+All open-source libraries remain the property of their respective creators.
+
+© 2026 Serhii Makarenko. All rights reserved.
